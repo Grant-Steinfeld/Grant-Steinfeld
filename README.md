@@ -7,12 +7,11 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 
 [![](./chat.svg)](https://twitter.com/gsteinfeld)
 
-- 📫 How to reach me:
 ![](https://github-readme-stats.vercel.app/api?username=grant-steinfeld&show_icons=true&theme=merko)
 
 
 - 🔭 I’m currently working on Arduino telemetry data - pushed via WiFi to Node-RED to InfluxDB
-- 🌱 I’m currently learning ... https://epicreact.dev
+- 🌱 I’m currently learning ... https://epicreact.dev - Kent C. Dobbs
 - 
 <!--
 **Grant-Steinfeld/Grant-Steinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
