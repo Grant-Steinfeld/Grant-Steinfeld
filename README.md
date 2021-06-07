@@ -5,11 +5,9 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 
 <br/>
 
-[![](./chat.svg)](https://twitter.com/dfinke)
 
 
 
-<br/>
 
 [![](./chat.svg)](https://twitter.com/gsteinfeld)
 
