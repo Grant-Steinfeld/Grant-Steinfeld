@@ -1,6 +1,12 @@
 > ## “DevOps is not a Goal, But a never-ending process of continual improvement” – Jez Humble
 <br/>
 
+The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/grant-steinfeld/blob/master/build-svg.ps1) PowerShell script, which runs daily at 3am via this [GitHub Action](https://github.com/grant-steinfeld/grant-steinfeld/blob/master/.github/workflows/readme.yml).
+
+<br/>
+
+[![](./chat.svg)](https://twitter.com/dfinke)
+
 
 
 <br/>
