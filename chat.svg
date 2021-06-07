@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm a software engineer, carpenter and Physiotherapist.</text>
-    <text x="15" y="50">I love to find out how things work, systems - plant, human and materials/objects.</text>
+    <text x="15" y="50">I love to find out how things work ...</text>
   </g>
 
   <!-- typing 4 -->
