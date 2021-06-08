@@ -16,7 +16,7 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 
 - 🔭 I’m currently working on Arduino telemetry data - pushed via WiFi to Node-RED to InfluxDB
 - 🌱 I’m currently learning ... https://epicreact.dev - Kent C. Dobbs
-- 
+
 <!--
 **Grant-Steinfeld/Grant-Steinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
