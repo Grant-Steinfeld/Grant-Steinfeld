@@ -18,8 +18,9 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 ![](https://github-readme-stats.vercel.app/api?username=grant-steinfeld&show_icons=true&theme=merko)
 
 
-- 🔭 I’m currently working on Arduino telemetry data - pushed via WiFi to Node-RED to InfluxDB
-- 🌱 I’m currently learning ... https://epicreact.dev - Kent C. Dobbs
+- 🔭 I’m currently working on Arduino telemetry data - pushed via WiFi to a Raspberry Pi 4 `Home Controller` running Node-RED and pushing data
+- via GitHub Actions to a Python Action here https://github.com/Grant-Steinfeld/dash-action-fed
+- 🌱 I’m currently taking the ... [Tree Climing International Course ](https://treeclimbing.com/)
 
 <!--
 **Grant-Steinfeld/Grant-Steinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
