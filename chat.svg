@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Barryville, NY where it's supposed to be</text>
-    <text x="15" y="50">57° F (14° C) and <tspan class="emoji">🌤</tspan> today.</text>
+    <text x="15" y="50">53° F (12° C) and <tspan class="emoji">🌥</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm a software engineer, carpenter and Physiotherapist.</text>
-    <text x="15" y="50">for 15 years, and I love to find out how things work ...</text>
+    <text x="15" y="50">for 16 years, and I love to find out how things work ...</text>
   </g>
 
   <!-- typing 4 -->
@@ -376,7 +376,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a fabulous Tuesday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Have a fabulous Wednesday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
 
