@@ -1,7 +1,7 @@
 # thanks to Doug Finke 
 
 $key = $env:WEATHER_API_KEY
-$locationKey = "14-349727_1_AL";
+$locationKey = "2213599"; # Barryville, NY
 
 $emojis = @{
     1  = "☀️"
