@@ -322,15 +322,6 @@
 
   </g>
 
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/gsteinfeld">https://twitter.com/gsteinfeld</a>
-    </text>
-  </g>
-
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
