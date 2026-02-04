@@ -13,7 +13,7 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 
 
 
-[![](./chat.svg)](https://twitter.com/gsteinfeld)
+![](./chat.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=grant-steinfeld&show_icons=true&theme=merko)
 
