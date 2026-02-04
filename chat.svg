@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a software engineer, carpenter and Physiotherapist.</text>
+    <text x="15" y="27">I'm a cloud data architect, carpenter and Physiotherapist.</text>
     <text x="15" y="50">for 17 years, and I love to find out how things work ...</text>
   </g>
 
@@ -347,12 +347,6 @@
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
 
-  </g>
-
-  <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for visiting my GitHub, I hope you found something interesting.y</text>
   </g>
 
   <!-- typing 6 -->
