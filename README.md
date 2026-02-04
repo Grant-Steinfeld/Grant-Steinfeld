@@ -18,10 +18,9 @@ The below is built using the [build-svg.ps1](https://github.com/grant-steinfeld/
 ![](https://github-readme-stats.vercel.app/api?username=grant-steinfeld&show_icons=true&theme=merko)
 
 
-- 🔭 I’m currently working on Arduino telemetry data - pushed via WiFi to a Raspberry Pi 4 `Home Controller` running Node-RED and pushing data
-via :octocat: GitHub Actions to a Python Action here https://github.com/Grant-Steinfeld/dash-action-fed
-- 🌱 I’m currently taking the ... [Tree Climing International Course ](https://treeclimbing.com/)
-- 📗 I'm reading [The Hidden Life of Trees - by Peter Wohlleben ](https://www.facebook.com/THLOTMovie/)
+- 🔭 I'm currently working on [OpenClaw](https://github.com/openclaw) and [Ollama](https://ollama.com) AI coding agents
+- 🌱 I'm currently learning [AWS CloudWatch Insights QL](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html)
+- 📗 I'm reading [Goshawk Summer - by James Aldred](https://www.jamesaldred.com/book-1)
 
 <!--
 **Grant-Steinfeld/Grant-Steinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
